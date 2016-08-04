@@ -1,5 +1,5 @@
 # Project-Proposal_Jacob-Rulloda-Renes
-<h1>TITLE: Project X</h1>
+<h1>TITLE: Project X</h1>![](lanz.jpg)
 ![](happy.JPG)
 <h3>MEMBERS:</h3>
 <ul>
