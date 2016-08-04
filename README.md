@@ -1,9 +1,9 @@
 # Project-Proposal_Jacob-Rulloda-Renes
-<h1>TITLE: Project X</h1>![](lanz.jpg)
+<h1>TITLE: Project X</h1>
 ![](happy.JPG)
 <h3>MEMBERS:</h3>
 <ul>
-<li><p>Jacob, Lanz</p></li>
+<li><p>Jacob, Lanz</p></li>![](lanz.jpg)
 <li><p>Rulloda, Lea</p></li>
 <li><p>Renes, David</p></li></ul>
 <h3>Expected Topics:</h3>
