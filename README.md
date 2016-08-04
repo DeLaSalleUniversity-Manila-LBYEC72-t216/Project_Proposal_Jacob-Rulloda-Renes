@@ -2,10 +2,12 @@
 <h1>TITLE: Project X</h1>
 ![](happy.JPG)
 <h3>MEMBERS:</h3>
-<ul>
-<li><p>Jacob, Lanz</p></li>![](lanz.jpg)
-<li><p>Rulloda, Lea</p></li>
-<li><p>Renes, David</p></li></ul>
+<p>Jacob, Lanz</p>
+![](lanz.jpg)
+<p>Rulloda, Lea</p>
+![](lea.jpg)
+<p>Renes, David</p>
+![](david.jpg)
 <h3>Expected Topics:</h3>
 <ul>
 <li><p>Conditional Statements</p></li>
