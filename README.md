@@ -1,6 +1,6 @@
 # Project-Proposal_Jacob-Rulloda-Renes
 <h1>TITLE: Project X</h1>
-![](happy.JPG)
+![](Happy2.JPG)
 <h3>MEMBERS:</h3>
 <p>Jacob, Lanz</p>
 ![](lanz.jpg)
